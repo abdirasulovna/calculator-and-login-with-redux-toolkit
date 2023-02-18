@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/calculator-and-login-with-redux-toolkit/static/css/main.a10acf6b.css",
+    "main.js": "/calculator-and-login-with-redux-toolkit/static/js/main.de13afec.js",
+    "index.html": "/calculator-and-login-with-redux-toolkit/index.html",
+    "main.a10acf6b.css.map": "/calculator-and-login-with-redux-toolkit/static/css/main.a10acf6b.css.map",
+    "main.de13afec.js.map": "/calculator-and-login-with-redux-toolkit/static/js/main.de13afec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a10acf6b.css",
+    "static/js/main.de13afec.js"
+  ]
+}
